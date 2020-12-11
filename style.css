@@ -552,14 +552,16 @@ p1 {
   text-decoration: underline;
 }
 
-.dropdown-content {
+/* .dropdown-content {
   display: block;
 }
+ */
+
 
 /* Show the dropdown menu on hover */
-.dropbtn:hover .dropdown-content {
-  
-}
+/* .dropbtn:hover ~ .dropdown-content {
+  display: block;
+} */
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropbtn:hover {
