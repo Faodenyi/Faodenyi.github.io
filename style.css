@@ -5,7 +5,7 @@ body {
 }
 
 html {
-    scroll-behavior: smooth; 
+  scroll-behavior: smooth;
 }
 
 .col {
@@ -22,16 +22,16 @@ html {
 }
 
 .container-fluid > div {
-  font-family: 'Belgrano', serif;
+  font-family: "Belgrano", serif;
 }
 
 .home {
 }
 
-.welcome { 
-  border: #DCDCDC 2px solid;
+.welcome {
+  border: #DCDCDC 2px clear;
   height: 2700px;
-  background-color: white; 
+  background-color: white;
   padding: 20px;
 }
 
@@ -47,66 +47,61 @@ html {
   border: black 1px clear;
   background-color: #C3A9A6;
   padding: 30px;
-  font-family: 'Lora', serif;
+  font-family: "Lora", serif;
   font-size: 35px;
   text-align: center;
-  padding-top: 50px
-  
+  padding-top: 50px;
 }
 
 .findat {
   border: 3px black clear;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: "Fira Sans", sans-serif;
   border-radius: 15px;
   background-color: #123b66;
   color: white;
   width: 140px;
-  position:absolute; left: 260px;
+  position: absolute;
+  left: 260px;
+  top: 235px;
 }
-
-
 
 .why-a-therapist {
   border: 2px black clear;
   background-color: #EDC7B1;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 16px;
-
 }
 
 p2 {
-    left:220px; top:470px;
-    font-size: 30px;
-    font-family: 'Belgrano', serif;
-
+  left: 220px;
+  top: 470px;
+  font-size: 30px;
+  font-family: "Belgrano", serif;
 }
 
 .benefits-of-therapy {
   border: 2px black clear;
   background-color: #EDC7B1;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   border-radius: 13px;
 }
 
 .benefits {
-   font-size: 30px;
-   font-family: 'Belgrano', serif;
+  font-size: 30px;
+  font-family: "Belgrano", serif;
 }
-
-
 
 p1 {
-    font-size: 30px;
-    font-family: 'Belgrano', serif;
+  font-size: 30px;
+  font-family: "Belgrano", serif;
 }
-
 
 .teens {
   border: 2px black solid;
   border-radius: 15px;
   text-align: center;
   background-color: #EDC7B1;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: "Titillium Web", sans-serif;
   font-size: 30px;
   opacity: 100%;
   height: 300px;
@@ -120,15 +115,13 @@ p1 {
   opacity: 100%;
 }
 
-
-
 .adults {
   border: 2px black solid;
   padding-top: 80px;
   text-align: center;
   border-radius: 15px;
   background-color: #EDC7B1;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: "Titillium Web", sans-serif;
   font-size: 30px;
   opacity: 100%;
 }
@@ -139,15 +132,13 @@ p1 {
   opacity: 100%;
 }
 
-
-
 .kids {
   border: 2px black solid;
-  padding-top:75px;
+  padding-top: 75px;
   text-align: center;
   border-radius: 15px;
-  background-color: #EDC7B1;  
-  font-family: 'Titillium Web', sans-serif;
+  background-color: #EDC7B1;
+  font-family: "Titillium Web", sans-serif;
   font-size: 30px;
 }
 
@@ -157,14 +148,13 @@ p1 {
   opacity: 100%;
 }
 
-
 .locations {
   border: 2px black solid;
   padding-top: 70px;
   text-align: center;
   border-radius: 15px;
   background-color: #EDC7B1;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: "Titillium Web", sans-serif;
   font-size: 30px;
   height: 300px;
   width: 60px;
@@ -176,14 +166,13 @@ p1 {
   opacity: 100%;
 }
 
-
 .mood {
   border: 2px black solid;
   padding-top: 70px;
   text-align: center;
   border-radius: 15px;
   background-color: #EDC7B1;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: "Titillium Web", sans-serif;
   font-size: 29px;
 }
 
@@ -199,7 +188,7 @@ p1 {
   text-align: center;
   border-radius: 15px;
   background-color: #EDC7B1;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: "Titillium Web", sans-serif;
   font-size: 30px;
 }
 
@@ -220,9 +209,8 @@ p1 {
   height: 650px;
   width: 10px;
   background-color: white;
-  padding-top: 50px
+  padding-top: 50px;
 }
-
 
 /*--- Take out border color later */
 
@@ -231,7 +219,7 @@ p1 {
   padding-top: 20px;
   text-align: center;
   border-radius: 15px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 20px;
   background-color: #EDC7B7;
 }
@@ -241,78 +229,88 @@ p1 {
   padding-top: 20px;
   text-align: center;
   border-radius: 15px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 20px;
 }
 
 .times {
   font-size: 36px;
-  font-family: 'Belgrano', serif;
-
+  font-family: "Belgrano", serif;
 }
 
 .why-we-are-here {
   font-size: 36px;
-  font-family: 'Belgrano', serif;
+  font-family: "Belgrano", serif;
 }
 
 .line-1 {
-   position:absolute; left:250px; top:2500px;
-    font-family: "Montserrat", sans-serif;
+  position: absolute;
+  left: 250px;
+  top: 2500px;
+  font-family: "Montserrat", sans-serif;
 }
 
 .line-2 {
-     position:absolute; left:250px; top:2600px;
-    font-family: "Montserrat", sans-serif;
+  position: absolute;
+  left: 250px;
+  top: 2600px;
+  font-family: "Montserrat", sans-serif;
 }
 
-
 .ftnr {
-     position:absolute; left:400px; top:2550px;
-    font-family: "Montserrat", sans-serif;
+  position: absolute;
+  left: 400px;
+  top: 2550px;
+  font-family: "Montserrat", sans-serif;
 }
 
 .house {
-     position:absolute; left:260px; top:2550px;
-    font-family: "Montserrat", sans-serif;
+  position: absolute;
+  left: 260px;
+  top: 2550px;
+  font-family: "Montserrat", sans-serif;
 }
 
 .abt-us {
-     position:absolute; left:900px; top:2550px;
-    font-family: "Montserrat", sans-serif;
+  position: absolute;
+  left: 900px;
+  top: 2550px;
+  font-family: "Montserrat", sans-serif;
 }
 
 .res {
-     position:absolute; left:1100px; top:2550px;
-    font-family: "Montserrat", sans-serif;
+  position: absolute;
+  left: 1100px;
+  top: 2550px;
+  font-family: "Montserrat", sans-serif;
 }
-.logooooo{
-  position:absolute; left:680px; top:2550px;
-    font-family: "Montserrat", sans-serif;
+.logooooo {
+  position: absolute;
+  left: 680px;
+  top: 2550px;
+  font-family: "Montserrat", sans-serif;
 }
-  
-.words-at-bottom {
-    font-family: 'Montserrat', sans-serif;
 
+.words-at-bottom {
+  font-family: "Montserrat", sans-serif;
 }
 
 .lil-message-at-bottom {
-    position: absolute;left:540px; top:2650px;
-font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 540px;
+  top: 2650px;
+  font-family: "Montserrat", sans-serif;
 }
 
 .a {
   text-align: center;
-  display:flex;
+  display: flex;
   word-spacing: 20px;
 }
 
-
-
-
 .image-online {
-width:100%;
-height:100%;
+  width: 100%;
+  height: 100%;
 }
 
 #yessir {
@@ -322,15 +320,11 @@ height:100%;
   border: 10px solid #123b66;
 }
 
-.container, .container-fluid {
-  border: 10px purple clear;
-}
-
 .row {
   border: 10px white solid;
 }
 
-.container-fluid{
+.container-fluid {
   border: 10px white clear;
   text-align: center;
 }
@@ -354,17 +348,17 @@ height:100%;
   text-align: center;
 }
 .col-sm-2 {
-  margin-left: 150px;}
+  margin-left: 150px;
+}
 
 #cutsy-message-top {
-  border:5px #EDC7B7 solid;
+  border: 5px #EDC7B7 solid;
 }
 
 #image-border-1 {
   border: 10px #EDC7B7 solid;
 }
-
-#image-1-border {
+.imageborder-1 {
   border: 10px solid #EDC7B7;
 }
 
@@ -372,3 +366,215 @@ height:100%;
   font-size: 25px;
 }
 
+.image-1-border {
+  border: 10px solid #EDC7B7;
+}
+
+#GS-button {
+  background-color: #EDC7B7;
+  width: 135px;
+  height: 52px;
+   position: absolute;
+  left: 944px;
+  top: 30px;
+  border-radius: 27px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+#GS-text {
+  color: #000000;
+  width: 129px;
+  height: 19px;
+  font-family: Arvo;
+  text-align: center;
+  font-size: 15px;
+  position: absolute;
+  margin-top: 17px;
+  margin-bottom: 19px;
+}
+
+#GS-button a {
+  color: #000000;
+  text-decoration: none;
+}
+
+#GS-button a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+
+.dropbtn {
+  
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: absolute;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #123C69;
+  width: 1440px;
+  height: 243px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 23px;
+  top: 92px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.GS-drop-down-box-text {
+  position: absolute;
+  width: 316px;
+  height: 153px;
+  left: 17px;
+  top: 18px;
+}
+
+.GS-drop-down-box-text p {
+  position: absolute;
+  width: 277px;
+  height: 67px;
+  left: 36px;
+  top: 84px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #B6D1FF;
+}
+
+.GS-Box {
+  position: absolute;
+  width: 316px;
+  height: 45px;
+  left: 17px;
+  top: 48px;
+  background: #EDC7B7;
+  border-radius: 18px;
+  text-align: center;
+}
+.GS-Box span {
+  position: absolute;
+  width: 199px;
+  height: 39px;
+  left: 61px;
+  top: 3px;
+  font-family: Quando;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 31px;
+  line-height: 39px;
+  color: #00346B;
+}
+
+.menu-content {
+  position: absolute;
+  width: 1066px;
+  height: 217px;
+  left: 353px;
+  top: 13px;
+  background: #EDC7B0;
+  border-radius: 18px;
+}
+
+.Drop-Down-box-Word-image {
+  position: absolute;
+  width: 1066px;
+  height: 217px;
+  left: 0px;
+  top: 0px;
+  outline: 1px solid black;
+}
+
+.Col-1 {
+  position: absolute;
+  width: 215px;
+  height: 163px;
+  left: 13px;
+  top: 30px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 20px;
+  text-align: center;
+}
+.Col-2 {
+  position: absolute;
+  width: 215px;
+  height: 163px;
+  top: 30px;
+  left: 299px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 20px;
+  text-align: center;
+}
+.Col-3 {
+  position: absolute;
+  width: 215px;
+  height: 163px;
+  top: 30px;
+  left: 583px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 20px;
+  text-align: center;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  color: #5C2018;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* Show the dropdown menu on hover */
+.dropbtn:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropbtn:hover {
+  color: #5C2018;
+  text-decoration: underline;
+}
+
+.image-box {
+  position: absolute;
+  height: 171px;
+  background: #C49886;
+  top: 23px;
+  right: 19px;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.image-box img {
+  height: 121px;
+  padding: 10px 17px;
+}
