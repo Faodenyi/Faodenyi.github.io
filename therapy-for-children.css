@@ -3,7 +3,7 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  height: 1250px;
+  height: 1300px;
 }
 
 .col {
@@ -27,7 +27,7 @@ body {
   font-family: "Belgrano", serif;
 }
 
-.adult-title {
+.young-title {
   font-family: "Titillium Web", sans-serif;
   font-size: 50px;
   position: absolute;
@@ -80,7 +80,7 @@ body {
   position: absolute;
   top: 50px;
   left: 15px;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .rec-2 {
@@ -128,7 +128,7 @@ body {
   position: absolute;
   top: 50px;
   left: 15px;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .rec-3 {
@@ -176,7 +176,7 @@ body {
   position: absolute;
   top: 50px;
   left: 15px;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .line-1 {
@@ -231,28 +231,25 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-.one-adult {
+.one-therapist {
   position: absolute;
-  left: 25px;
-  top: 10px;
-  height: 140px;
-  width: 140px;
+  left: 20px;
+  height: 150px;
+  width: 150px;
 }
 
-.two-adult {
+.two-therapist {
   position: absolute;
-  left: 25px;
-  top: 10px;
-  height: 140px;
-  width: 140px;
+  left: 20px;
+  height: 150px;
+  width: 150px;
 }
 
-.three-adult {
+.three-therapist {
   position: absolute;
-  left: 25px;
-  top: 10px;
-  height: 140px;
-  width: 140px;
+  left: 20px;
+  height: 150px;
+  width: 150px;
 }
 
 .title-logo {
