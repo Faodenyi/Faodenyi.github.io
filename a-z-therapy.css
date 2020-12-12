@@ -1,0 +1,1619 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  height: 1000px;
+  
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+  .col {
+  background-color: #EDC7B7;
+  border: white solid 8px;
+  border-radius: 40px;
+  word-wrap: break-word;
+  text-decoration: none;
+  color: black;
+}
+
+.row {
+    border: 18px #123C69 solid;
+}
+
+.col-3 {
+  padding-top: 15px;
+}
+
+.container-fluid > div {
+  font-family: 'Belgrano', serif;
+}
+
+}
+.Backg-Rec {
+  width: 1440px;
+  height: 1000px;
+  background: linear-gradient(#DBBBB1, 9%, #AD9EA1, #6A7489, #A3979D);
+  overflow: hidden;
+}
+
+.Nav-bar {
+  background: #123c69;
+  width: 100%;
+  height: 110px;
+  overflow: hidden;
+}
+#NB-content {
+  background-color: #ffffff;
+  border: 4px solid black;
+  height: 85px;
+  border-radius: 10px;
+  margin: 8px 12px 6px 12px;
+}
+
+.Logo-Box {
+  background: #ffffff;
+  width: 376px;
+  height: 85px;
+  border: 3px solid yellow;
+  border-radius: 10px;
+}
+
+p.Logo {
+  color: #333;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* NAV-Buttons button Start */
+
+#GH-button {
+  background-color: #EDC7B7;
+  width: 135px;
+  height: 52px;
+  position: absolute;
+  left: 618px;
+  top: 28px;
+  border-radius: 27px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#GH-text {
+  color: #000000;
+  width: 73px;
+  height: 20px;
+  position: absolute;
+  left: 649px;
+  top: 44px;
+  font-family: Arvo;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#H-Button {
+  background-color: #EDC7B7;
+  width: 135px;
+  height: 52px;
+  position: absolute;
+  left: 455px;
+  top: 30px;
+  border-radius: 27px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#H-text {
+  color: #000000;
+  width: 56px;
+  height: 19px;
+  position: absolute;
+  left: 495px;
+  top: 45px;
+  font-family: Arvo;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#R-button {
+  background-color: #EDC7B7;
+  width: 135px;
+  height: 52px;
+  position: absolute;
+  left: 781px;
+  top: 28px;
+  border-radius: 27px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#R-text {
+  color: #000000;
+  width: 87px;
+  height: 20px;
+  position: absolute;
+  left: 805px;
+  top: 44px;
+  font-family: Arvo;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#A-button {
+  background-color: #EDC7B7;
+  width: 135px;
+  height: 52px;
+  position: absolute;
+  left: 1107px;
+  top: 28px;
+  border-radius: 27px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#A-text {
+  color: #000000;
+  width: 49px;
+  height: 20px;
+  position: absolute;
+  left: 1150px;
+  top: 45px;
+  font-family: Arvo;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#C-button {
+  background-color: #EDC7B7;
+  width: 135px;
+  height: 52px;
+  position: absolute;
+  left: 1270px;
+  top: 28px;
+  border-radius: 27px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#C-text {
+  color: #000000;
+  width: 65px;
+  height: 20px;
+  position: absolute;
+  left: 1306px;
+  top: 44px;
+  font-family: Arvo;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#GS-button {
+  background-color: #EDC7B7;
+  width: 135px;
+  height: 52px;
+  position: absolute;
+  left: 944px;
+  top: 30px;
+  border-radius: 27px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+#GS-text {
+  color: #000000;
+  width: 119px;
+  height: 19px;
+  position: absolute;
+  left: 953px;
+  top: 47px;
+  font-family: Arvo;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+
+/* NAV-Buttons button End */
+
+/* lil right Search button */
+
+#lil-Search {
+  position: relative;
+  width: 127px;
+  height: 55px;
+  top: 48px;
+  left: 1289px;
+}
+#Search-Backg {
+  background-color: #0E335B;
+  width: 127px;
+  height: 55px;
+  position: absolute;
+  border-radius: 20px;
+}
+
+#Search-Backg img {
+  position: absolute;
+  left: 41px;
+  right: 41px;
+  top: 3px;
+  bottom: 3px;
+}
+/* lil right Search button END */
+
+.Page-Header {
+  color: #3c322e;
+  font-family: Titillium Web;
+  font-weight: normal;
+  font-size: 93px;
+  font-style: normal;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  position: absolute;
+  width: 656px;
+  height: 141px;
+  left: 393px;
+  top: 173px;
+}
+
+/* Bubbles & Text Start */
+
+#Ellipse-Text {
+  position: relative;
+  width: 1149px;
+  height: 782px;
+}
+
+#AE-Bubble:hover {
+border: 15px solid #F3CDBE; 
+}
+
+#FJ-Bubble:hover {
+border: 15px solid #F3CDBE; 
+}
+
+#KO-Bubble:hover {
+border: 15px solid #F3CDBE;  
+}
+
+#PU-Bubble:hover {
+border: 15px solid #F3CDBE;  
+}
+
+#VZ-Bubble:hover {
+border: 15px solid #F3CDBE;  
+}
+
+#AE-Bubble {
+  border-radius: 500px;
+  background-color: #072F5A;
+  width: 339px;
+  height: 339px;
+  position: absolute;
+  left: 328px;
+  top: 376px;
+}
+
+#AE-Text {
+  color: #FFE6DC;
+  width: 323px;
+  height: 107px;
+  position: absolute;
+  left: 337px;
+  top: 490px;
+  font-family: Raleway;
+  text-align: center;
+  font-size: 84px;
+  letter-spacing: 0;
+  line-height: undefined;
+}
+
+#FJ-Bubble {
+  height: 339px;
+  width: 341px;
+  left: 715px;
+  top: 376px;
+  position: absolute;
+  border-radius: 500px;
+  background-color: #072F5A;
+}
+#FJ-Text {
+  color: #FFE6DC;
+  width: 325px;
+  height: 107px;
+  position: absolute;
+  left: 723px;
+  top: 492px;
+  font-family: Raleway;
+  text-align: center;
+  font-size: 84px;
+}
+
+#KO-Bubble {
+  height: 339px;
+  width: 341px;
+  left: 109px;
+  top: 819px;
+  position: absolute;
+  border-radius: 500px;
+  background-color: #072F5A;
+}
+#KO-Text {
+  color: #FFE6DC;
+  width: 325px;
+  height: 107px;
+  position: absolute;
+  left: 116px;
+  top: 936px;
+  font-family: Raleway;
+  text-align: center;
+  font-size: 84px;
+}
+
+#PU-Bubble {
+  height: 339px;
+  width: 341px;
+  position: absolute;
+  border-radius: 500px;
+  background-color: #072F5A;
+  left: 513px;
+  top: 819px;
+}
+
+#PU-Text {
+  color: #FFE6DC;
+  width: 323px;
+  height: 106px;
+  font-family: Raleway;
+  text-align: center;
+  font-size: 84px;
+  position: absolute;
+  left: 522px;
+  top: 935px;
+}
+
+#VZ-Bubble {
+  height: 339px;
+  width: 341px;
+  position: absolute;
+  border-radius: 500px;
+  background-color: #072F5A;
+  left: 919px;
+  top: 819px;
+}
+
+#VZ-Text {
+  color: #FFE6DC;
+  width: 323px;
+  height: 106px;
+  font-family: Raleway;
+  text-align: center;
+  font-size: 84px;
+  position: absolute;
+  left: 927px;
+  top: 936px;
+}
+
+/* Bubbles & Text End */
+
+/* Alphabet sections A-Z Start */
+
+/* Alphabet sections A-E Start */
+.Alphabet-section-A-E-SQUARE {
+  width: 1325px;
+  height: 530px;
+  background: #1B3D61;
+  position: relative;
+  left: 57px;
+  top: 621px;
+}
+
+#AE-Right-Button{
+  border-radius:500px;
+	background-color:rgba(244.0000006556511, 198.00000339746475, 182.00000435113907, 1);
+	width:73px;
+	height:73px;
+  position: relative;
+  left: 18px;
+top: 7px;
+}
+
+ #AE-Button-Text {
+ color:rgba(76.42916724085808, 89.03071224689484, 110.50000101327896, 1);
+	width:71px;
+	height:21px;
+	font-family:Raleway;
+	font-size:30px;
+  position: absolute;
+  text-align:center;
+   left: 0px;
+top: 18px;
+}
+
+#Letter-A {
+ position: absolute;
+width: 209px;
+height: 68px;
+left: 216px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #B6D1FF;
+}
+
+#A-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 50px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 7px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-B {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 615px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+#B-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 441px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 10px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-C {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 1016px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#C-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 847px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 7px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-D {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 440px;
+top: 213px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#D-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 265px;
+top: 300px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 8px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-E {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 820px;
+top: 213px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#E-therapy-list {
+position: absolute;
+width: 400px;
+height: 219px;
+left: 643px;
+top: 300px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 9.5px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+/* Alphabet sections A-E END */
+
+
+/* Alphabet sections F-J Start */
+
+.Alphabet-section-F-J-SQUARE {
+width: 1325px;
+  height: 530px;
+  background: #1B3D61;
+  position: relative;
+  left: 57px;
+  top: 689px;
+}
+
+#FJ-Right-Button{
+  border-radius:500px;
+	background-color:rgba(244.0000006556511, 198.00000339746475, 182.00000435113907, 1);
+	width:73px;
+	height:73px;
+  position: relative;
+  left: 18px;
+top: 7px;
+}
+
+#FJ-Button-Text {
+  color:rgba(76.42916724085808, 89.03071224689484, 110.50000101327896, 1);
+	width:71px;
+	height:21px;
+	font-family:Raleway;
+	font-size:30px;
+  position: absolute;
+  text-align:center;
+top: 18px;
+}
+
+#Letter-F {
+ position: absolute;
+width: 209px;
+height: 68px;
+left: 216px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #B6D1FF;
+}
+
+#F-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 30px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 8px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-G {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 615px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+#G-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 441px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 9px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-H {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 1016px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#H-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 847px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 8px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-I {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 440px;
+top: 213px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#I-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 265px;
+top: 300px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 8px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-J {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 820px;
+top: 213px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#J-therapy-list {
+position: absolute;
+width: 400px;
+height: 219px;
+left: 643px;
+top: 300px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 9px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+/* Alphabet sections F-J END */
+
+
+/* Alphabet sections K-O Start */
+.Alphabet-section-K-O-SQUARE {
+width: 1325px;
+  height: 530px;
+  background: #1B3D61;
+  position: relative;
+  left: 57px;
+  top: 761.25px;
+}
+
+#KO-Right-Button{
+  border-radius:500px;
+	background-color:rgba(244.0000006556511, 198.00000339746475, 182.00000435113907, 1);
+	width:73px;
+	height:73px;
+  position: relative;
+  left: 18px;
+top: 7px;
+}
+
+#KO-Button-Text {
+  color:rgba(76.42916724085808, 89.03071224689484, 110.50000101327896, 1);
+	width:71px;
+	height:21px;
+	font-family:Raleway;
+	font-size:30px;
+  position: absolute;
+  text-align:center;
+top: 18px;
+}
+
+#Letter-K {
+ position: absolute;
+width: 209px;
+height: 68px;
+left: 216px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #B6D1FF;
+}
+/* not av */
+#K-therapy-list {
+position: absolute;
+width: 388px;
+height: 1px;
+left: 30px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 4px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-L {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 615px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+#L-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 441px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 7px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-M {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 1016px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#M-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 847px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 4.5px;
+text-align: center;
+color: #FFE6DC;  
+}
+
+#Letter-N {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 440px;
+top: 213px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#N-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 265px;
+top: 300px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 5px;
+text-align: center;
+color: #FFE6DC;
+}
+#Letter-O {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 820px;
+top: 213px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#O-therapy-list {
+position: absolute;
+width: 500px;
+height: 219px;
+left: 598px;
+top: 300px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 8px;
+text-align: center;
+color: #FFE6DC; 
+}
+
+/* Alphabet sections K-O END */
+
+
+/* Alphabet sections P-U Start */
+
+.Alphabet-section-P-U-SQUARE {
+width: 1325px;
+  height: 530px;
+  background: #1B3D61;
+  position: relative;
+  left: 57px;
+  top: 837px;
+}
+
+#PU-Right-Button{
+  border-radius:500px;
+	background-color:rgba(244.0000006556511, 198.00000339746475, 182.00000435113907, 1);
+	width:73px;
+	height:73px;
+  position: relative;
+  left: 18px;
+top: 7px;
+}
+
+#PU-Button-Text {
+  color:rgba(76.42916724085808, 89.03071224689484, 110.50000101327896, 1);
+	width:71px;
+	height:21px;
+	font-family:Raleway;
+	font-size:30px;
+  position: absolute;
+  text-align:center;
+top: 18px;
+}
+
+#Letter-P {
+ position: absolute;
+width: 209px;
+height: 68px;
+left: 216px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #B6D1FF;
+}
+
+#P-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 30px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 4px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-Q {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 615px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+#Q-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 441px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 7px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-R {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 1016px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#R-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 847px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 4.5px;
+text-align: center;
+color: #FFE6DC;  
+}
+
+#Letter-S {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 219px;
+bottom:214px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #B6D1FF;
+}
+
+#S-therapy-list{
+position: absolute;
+width: 253px;
+height: 111px;
+left: 109px;
+top: 335px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 4.5px;
+text-align: center;
+color: #FFE6DC;
+}
+
+#Letter-T {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 613px;
+bottom:214px;
+color: #B6D1FF;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+}
+
+#T-therapy-list{
+position: absolute;
+width: 253px;
+height: 111px;
+left: 510px;
+top: 335px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 4.5px;
+text-align: center;
+color: #FFE6DC;
+}
+
+#Letter-U {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 1016px;
+bottom:214px;
+display: flex;
+align-items: center;
+text-align: center;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+color: #B6D1FF;
+}
+
+#U-therapy-list{
+position: absolute;
+width: 253px;
+height: 111px;
+left: 913px;
+top: 335px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 4.5px;
+text-align: center;
+color: #FFE6DC;
+}
+
+/* Alphabet sections P-U END */
+
+
+/* Alphabet sections V-Z Start */
+
+
+
+.Alphabet-section-V-Z-SQUARE {
+width: 1325px;
+  height: 530px;
+  background: #1B3D61;
+  position: relative;
+  left: 57px;
+  top: 908.125px;
+}
+
+#VZ-Right-Button{
+  border-radius:500px;
+	background-color:rgba(244.0000006556511, 198.00000339746475, 182.00000435113907, 1);
+	width:73px;
+	height:73px;
+  position: relative;
+  left: 18px;
+top: 7px;
+}
+
+#VZ-Button-Text {
+  color:rgba(76.42916724085808, 89.03071224689484, 110.50000101327896, 1);
+	width:71px;
+	height:21px;
+	font-family:Raleway;
+	font-size:30px;
+  position: absolute;
+  text-align:center;
+top: 18px;
+}
+
+#Letter-V {
+ position: absolute;
+width: 209px;
+height: 68px;
+left: 216px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #B6D1FF;
+}
+
+#V-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 30px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 4px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-W {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 615px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+#W-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 441px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 7px;
+text-align: center;
+color: #FFE6DC;  
+
+}
+
+#Letter-X {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 1016px;
+top: 12px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#X-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 847px;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 4.5px;
+text-align: center;
+color: #FFE6DC;  
+}
+
+#Letter-Y {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 440px;
+top: 213px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#Y-therapy-list {
+position: absolute;
+width: 388px;
+height: 197px;
+left: 265px;
+top: 300px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 5px;
+text-align: center;
+color: #FFE6DC;
+}
+#Letter-Z {
+position: absolute;
+width: 209px;
+height: 68px;
+left: 820px;
+top: 213px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 49px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #B6D1FF;
+}
+
+#Z-therapy-list {
+position: absolute;
+width: 500px;
+height: 219px;
+left: 598px;
+top: 300px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 8px;
+text-align: center;
+color: #FFE6DC; 
+}
+
+/* Alphabet sections V-Z END */
+
+/* Alphabet links  */
+.Alphabet-section-A-E-SQUARE a{
+  color: #6289ff;
+  background-color: transparent;
+}
+
+.Alphabet-section-A-E-SQUARE a:hover{
+  color: #FFE6DC;
+  text-decoration:underline; 
+}
+
+
+
+.Alphabet-section-F-J-SQUARE a{
+  color: #6289ff;
+  background-color: transparent;
+}
+
+.Alphabet-section-F-J-SQUARE a:hover{
+  color: #FFE6DC;
+  text-decoration:underline;
+}
+
+
+
+.Alphabet-section-K-O-SQUARE a{
+  color: #6289ff;
+  background-color: transparent;
+}
+
+.Alphabet-section-K-O-SQUARE a:hover{
+  color: #FFE6DC;
+  text-decoration:underline;
+}
+
+
+
+.Alphabet-section-P-U-SQUARE a{
+  color: #6289ff;
+  background-color: transparent;
+}
+
+.Alphabet-section-P-U-SQUARE a:hover{
+  color: #FFE6DC;
+  text-decoration:underline;
+}
+
+
+.Alphabet-section-V-Z-SQUARE a{
+  color: #6289ff;
+  background-color: transparent;
+}
+
+.Alphabet-section-V-Z-SQUARE a:hover{
+  color: #FFE6DC;
+  text-decoration:underline;
+}
+
+
+
+
+
+
+/* Back to top Start */
+
+#Back-to-top{
+position: absolute;
+width: 142px;
+height: 142px;
+left: 1138px;
+top: 356px;
+}
+
+
+
+#BT-TOP-Circle{
+position: absolute;
+width: 142px;
+height: 142px;
+left: 1138px;
+top: 356px;
+background: #F4C6B6;
+border-radius: 50%;
+}
+
+
+#BT-TOP-Circle:hover{
+box-shadow: 0px 0px 9px white;
+}
+
+#BT-TOP-Arrows{
+position: absolute;
+width: 46.67px;
+height: 56px;
+left: 40.5px;
+top: 21px; 
+}
+
+#BT-TOP-Text p {
+position: absolute;
+left: 26px;
+bottom: 10px;
+font-family: Arvo;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19.76px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1B3D61;
+}
+
+#BT-TOP-Text a{
+  color: #1B3D61;
+  
+  text-decoration:none;
+}
+
+#BT-TOP-Text a:hover{
+    text-decoration:underline; 
+}
+
+/* Back to top END */
+
+
+/* Footer Start */
+
+
+
+
+.line-1 {
+   position:absolute; left:250px; top:10px;
+}
+
+.line-2 {
+     position:absolute; left:250px; top:110px;
+}
+
+
+.ftnr {
+     position:absolute; left:434px; top:60px;
+}
+
+.house {
+     position:absolute; left:290px; top:60px;
+}
+
+.abt-us {
+     position:absolute; left:919px; top:60px;
+}
+
+.res {
+     position:absolute; left:1097px; top:60px;
+}
+.logooooo{
+  position:absolute; left:699px; top:60px;
+}
+  
+.words-at-bottom {
+font-family: 'Montserrat', sans-serif;
+top:4587px;
+position: absolute;
+width: 1440px;
+height: 433px;
+}
+
+.lil-message-at-bottom {
+    position:absolute; left:540px; 
+font-family: 'Montserrat', sans-serif;
+  bottom:250px;
+}
+
+/*  */
+.a {
+  text-align: center;
+  display:flex;
+  word-spacing: 20px;
+}
+
+.image-online {
+  height: 375px;
+  width: 700px;
+  position: absolute;   left: 180px;
+}
+
+.title-logo {
+  font-size: 25px;
+}
+
+
+/* Footer END */
