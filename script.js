@@ -4,17 +4,14 @@
 // prints "hi" in the browser's dev tools console
 console.log("hi");
 
-
 function mouseOver() {
   document.getElementById("dropdown-content").style.display = "block";
 }
 
 function mouseOut() {
-    setTimeout(function(){
-      document.getElementById("dropdown-content").style.display = "";
+  setTimeout(function() {
+    document.getElementById("dropdown-content").style.display = "";
   }, 2000);
-  
-  
 }
 
 function mouseOverContent() {

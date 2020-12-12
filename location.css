@@ -31,17 +31,20 @@ html {
   font-family: "Belgrano", serif;
 }
 
-
 .location {
-  font-family: 'Belgrano', serif;
-  position:absolute; left: 500px; top: 200px;
-  font-size: 40px
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 500px;
+  top: 200px;
+  font-size: 40px;
 }
 
 .underline {
   border-radius: 20px;
   background-color: grey;
-  position:absolute; left: 590px; top: 270px;
+  position: absolute;
+  left: 590px;
+  top: 270px;
   height: 10px;
   width: 200px;
 }
@@ -49,22 +52,24 @@ html {
 .underline-but-longer {
   border-radius: 20px;
   background-color: grey;
-  position:absolute; left: 500px; top: 370px;
+  position: absolute;
+  left: 500px;
+  top: 370px;
   height: 10px;
   width: 400px;
 }
 
-
-form.example input[type=text] {
+form.example input[type="text"] {
   padding: 10px;
   font-size: 17px;
   border: 1px solid grey;
   float: left;
   width: 400px;
   background: #f1f1f1;
-  position: absolute; left:450px; top:300px;
+  position: absolute;
+  left: 450px;
+  top: 300px;
   scroll-behavior: smooth;
-
 }
 
 form.example button {
@@ -78,7 +83,9 @@ form.example button {
   border: 1px solid grey;
   border-left: none;
   cursor: pointer;
-  position: absolute; left:850px; top:300px; 
+  position: absolute;
+  left: 850px;
+  top: 300px;
   scroll-behavior: smooth;
 }
 
@@ -93,8 +100,10 @@ form.example::after {
 }
 
 .bay {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:450px; top: 500px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 450px;
+  top: 500px;
   font-size: 40px;
   color: white;
 }
@@ -102,86 +111,108 @@ form.example::after {
 .bayy {
   border-radius: 1px;
   background-color: #123C69;
-  position:absolute; left: 10px; top: 508px;
+  position: absolute;
+  left: 10px;
+  top: 508px;
   height: 50px;
   width: 1420px;
-  z-index: -1; 
+  z-index: -1;
 }
 
 .list {
   height: 660px;
   width: 1420px;
-  position:absolute; left:10px; top: 600px;
+  position: absolute;
+  left: 10px;
+  top: 600px;
   background-color: #123C69;
 }
 
 .counties {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:60px; top: 700px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 60px;
+  top: 700px;
   font-size: 40px;
   color: white;
   z-index: 1;
 }
 
 .alameda {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:175px; top: 850px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 175px;
+  top: 850px;
   font-size: 30px;
   color: white;
   z-index: 1;
 }
 
 .costa {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:450px; top: 850px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 450px;
+  top: 850px;
   font-size: 30px;
   color: white;
   z-index: 1;
 }
 
 .marin {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:820px; top: 850px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 820px;
+  top: 850px;
   font-size: 30px;
   color: white;
   z-index: 1;
 }
 
 .napa {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:1100px; top: 850px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 1100px;
+  top: 850px;
   font-size: 30px;
   color: white;
   z-index: 1;
 }
 
 .sf {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:140px; top: 1050px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 140px;
+  top: 1050px;
   font-size: 30px;
   color: white;
   z-index: 1;
 }
 
 .sm {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:470px; top: 1050px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 470px;
+  top: 1050px;
   font-size: 30px;
   color: white;
   z-index: 1;
 }
 
 .sc {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:790px; top: 1050px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 790px;
+  top: 1050px;
   font-size: 30px;
   color: white;
   z-index: 1;
 }
 
 .solano {
-  font-family: 'Belgrano', serif;
-  position: absolute; left:1090px; top: 1050px;
+  font-family: "Belgrano", serif;
+  position: absolute;
+  left: 1090px;
+  top: 1050px;
   font-size: 30px;
   color: white;
   z-index: 1;
