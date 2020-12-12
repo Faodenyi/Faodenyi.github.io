@@ -1,0 +1,244 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  height: 1600px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.col {
+  background-color: #EDC7B7;
+  border: white solid 8px;
+  border-radius: 40px;
+  word-wrap: break-word;
+  text-decoration: none;
+  color: black;
+}
+
+.row {
+  border: 18px #123C69 solid;
+}
+
+.col-3 {
+  padding-top: 15px;
+}
+
+.container-fluid > div {
+  font-family: "Belgrano", serif;
+}
+
+
+.location {
+  font-family: 'Belgrano', serif;
+  position:absolute; left: 500px; top: 200px;
+  font-size: 40px
+}
+
+.underline {
+  border-radius: 20px;
+  background-color: grey;
+  position:absolute; left: 590px; top: 270px;
+  height: 10px;
+  width: 200px;
+}
+
+.underline-but-longer {
+  border-radius: 20px;
+  background-color: grey;
+  position:absolute; left: 500px; top: 370px;
+  height: 10px;
+  width: 400px;
+}
+
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 400px;
+  background: #f1f1f1;
+  position: absolute; left:450px; top:300px;
+  scroll-behavior: smooth;
+
+}
+
+form.example button {
+  float: left;
+  width: 100px;
+  height: 47px;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  position: absolute; left:850px; top:300px; 
+  scroll-behavior: smooth;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.bay {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:450px; top: 500px;
+  font-size: 40px;
+  color: white;
+}
+
+.bayy {
+  border-radius: 1px;
+  background-color: #123C69;
+  position:absolute; left: 10px; top: 508px;
+  height: 50px;
+  width: 1420px;
+  z-index: -1; 
+}
+
+.list {
+  height: 660px;
+  width: 1420px;
+  position:absolute; left:10px; top: 600px;
+  background-color: #123C69;
+}
+
+.counties {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:60px; top: 700px;
+  font-size: 40px;
+  color: white;
+  z-index: 1;
+}
+
+.alameda {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:175px; top: 850px;
+  font-size: 30px;
+  color: white;
+  z-index: 1;
+}
+
+.costa {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:450px; top: 850px;
+  font-size: 30px;
+  color: white;
+  z-index: 1;
+}
+
+.marin {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:820px; top: 850px;
+  font-size: 30px;
+  color: white;
+  z-index: 1;
+}
+
+.napa {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:1100px; top: 850px;
+  font-size: 30px;
+  color: white;
+  z-index: 1;
+}
+
+.sf {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:140px; top: 1050px;
+  font-size: 30px;
+  color: white;
+  z-index: 1;
+}
+
+.sm {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:470px; top: 1050px;
+  font-size: 30px;
+  color: white;
+  z-index: 1;
+}
+
+.sc {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:790px; top: 1050px;
+  font-size: 30px;
+  color: white;
+  z-index: 1;
+}
+
+.solano {
+  font-family: 'Belgrano', serif;
+  position: absolute; left:1090px; top: 1050px;
+  font-size: 30px;
+  color: white;
+  z-index: 1;
+}
+
+.line-1 {
+  position: absolute;
+  left: 250px;
+  top: 1350px;
+}
+
+.line-2 {
+  position: absolute;
+  left: 250px;
+  top: 1450px;
+}
+
+.ftnr {
+  position: absolute;
+  left: 400px;
+  top: 1400px;
+}
+
+.house {
+  position: absolute;
+  left: 260px;
+  top: 1400px;
+}
+
+.abt-us {
+  position: absolute;
+  left: 900px;
+  top: 1400px;
+}
+
+.res {
+  position: absolute;
+  left: 1090px;
+  top: 1400px;
+}
+.logooooo {
+  position: absolute;
+  left: 680px;
+  top: 1400px;
+}
+
+.words-at-bottom {
+  font-family: "Montserrat", sans-serif;
+}
+
+.lil-message-at-bottom {
+  position: absolute;
+  left: 540px;
+  top: 1500px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.title-logo {
+  font-size: 25px;
+}
