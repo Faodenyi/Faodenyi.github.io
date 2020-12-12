@@ -372,3 +372,221 @@ height:100%;
   font-size: 25px;
 }
 
+.image-1-border {
+  border: 10px solid #EDC7B7;
+}
+
+#GS-button {
+  background-color: #EDC7B7;
+  width: 135px;
+  height: 52px;
+   position: absolute;
+  left: 944px;
+  top: 30px;
+  border-radius: 27px;
+  margin-top: 10px;
+  margin-bottom: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+#GS-text {
+  color: #000000;
+  width: 129px;
+  height: 19px;
+  font-family: Arvo;
+  text-align: center;
+  font-size: 15px;
+  position: absolute;
+  margin-top: 17px;
+  margin-bottom: 19px;
+}
+
+#GS-button a {
+  color: #000000;
+  text-decoration: none;
+}
+
+#GS-button a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+
+.dropbtn {
+  
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: absolute;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #123C69;
+  width: 1440px;
+  height: 243px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 23px;
+  top: 92px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.GS-drop-down-box-text {
+  position: absolute;
+  width: 316px;
+  height: 153px;
+  left: 17px;
+  top: 18px;
+}
+
+.GS-drop-down-box-text p {
+  position: absolute;
+  width: 277px;
+  height: 67px;
+  left: 36px;
+  top: 84px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #B6D1FF;
+}
+
+.GS-Box {
+  position: absolute;
+  width: 316px;
+  height: 45px;
+  left: 17px;
+  top: 48px;
+  background: #EDC7B7;
+  border-radius: 18px;
+  text-align: center;
+}
+.GS-Box span {
+  position: absolute;
+  width: 199px;
+  height: 39px;
+  left: 61px;
+  top: 3px;
+  font-family: Quando;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 31px;
+  line-height: 39px;
+  color: #00346B;
+}
+
+.menu-content {
+  position: absolute;
+  width: 1066px;
+  height: 217px;
+  left: 353px;
+  top: 13px;
+  background: #EDC7B0;
+  border-radius: 18px;
+}
+
+.Drop-Down-box-Word-image {
+  position: absolute;
+  width: 1066px;
+  height: 217px;
+  left: 0px;
+  top: 0px;
+  outline: 1px solid black;
+}
+
+.Col-1 {
+  position: absolute;
+  width: 215px;
+  height: 163px;
+  left: 13px;
+  top: 30px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 20px;
+  text-align: center;
+}
+.Col-2 {
+  position: absolute;
+  width: 215px;
+  height: 163px;
+  top: 30px;
+  left: 299px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 20px;
+  text-align: center;
+}
+.Col-3 {
+  position: absolute;
+  width: 215px;
+  height: 163px;
+  top: 30px;
+  left: 583px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 20px;
+  text-align: center;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  color: #5C2018;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* .dropdown-content {
+  display: block;
+}
+ */
+
+
+/* Show the dropdown menu on hover */
+/* .dropbtn:hover ~ .dropdown-content {
+  display: block;
+} */
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropbtn:hover {
+  color: #5C2018;
+  text-decoration: underline;
+}
+
+.image-box {
+  position: absolute;
+  height: 171px;
+  background: #C49886;
+  top: 23px;
+  right: 19px;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.image-box img {
+  height: 121px;
+  padding: 10px 17px;
+}
