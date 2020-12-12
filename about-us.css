@@ -11,7 +11,7 @@ body {
 position: absolute;
 width: 1440px;
 height: 1455px;
-border: 3px solid yellow;
+
 
 }
 /* NAV-bar Start */
@@ -36,7 +36,7 @@ border: 3px solid yellow;
   background: #ffffff;
   width: 376px;
   height: 85px;
-  border: 1px solid yellow;
+  border: 0.1px solid black;
   border-radius: 10px;
 }
 
@@ -703,15 +703,6 @@ left: 669px;
 top: 120px;
 }
 
-#Logo-Pic{
-position: absolute;
-width: 22.52px;
-height: 22.52px;
-left: 0px;
-top: 2.96px;
-background:#FFFF00;
-
-}
 
 #Logo-Text-img{
 position: absolute;
@@ -812,4 +803,58 @@ span a:active {
   color: #5C2018;
   background-color: transparent;
   text-decoration: underline;
+}
+
+
+
+.line-1 {
+  position:absolute;
+  left: 203px;
+  top: 49px;
+}
+
+.line-2 {
+  position:absolute;
+  left: 203px;
+  bottom: 224px;
+}
+
+.ftnr {
+  position:absolute;
+  left: 390px;
+  top: 121px;
+}
+
+.house {
+  position:absolute;
+  top: 121px;
+  left: 203px;
+}
+
+.abt-us {
+  position:absolute;
+  left: 900px;
+  top: 121px;
+}
+
+.res {
+  position:absolute;
+  left: 1070px;
+  top: 121px;
+}
+.logooooo {
+  position:absolute;
+  left: 680px;
+  top: 121px;
+}
+
+.words-at-bottom {
+  font-family: "Montserrat", sans-serif;
+}
+
+.lil-message-at-bottom {
+  position:absolute;
+  left: 450px;
+  top: 250px;
+  font-family: "Montserrat", sans-serif;
 }

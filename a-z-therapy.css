@@ -2,7 +2,7 @@
 
 body {
   font-family: helvetica, arial, sans-serif;
-  height: 1000px;
+  background: linear-gradient(#DBBBB1, 9%, #AD9EA1, #6A7489, #A3979D);
 }
 
 html {
@@ -30,10 +30,7 @@ html {
 }
 
 .Backg-Rec {
-  width: 1440px;
-  height: 1000px;
   background: linear-gradient(#DBBBB1, 9%, #AD9EA1, #6A7489, #A3979D);
-  overflow: hidden;
 }
 
 .Nav-bar {
