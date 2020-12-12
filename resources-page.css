@@ -1,0 +1,334 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+.col {
+  background-color: #EDC7B7;
+  border: white solid 8px;
+  border-radius: 40px;
+  word-wrap: break-word;
+}
+
+.row {
+    border: 18px #123C69 solid;
+}
+
+.col-3 {
+  padding-top: 15px;
+}
+
+.container-fluid > div {
+  font-family: 'Belgrano', serif;
+}
+
+.resourcess {
+  background-color: white;
+  height: 2100px;
+}
+
+.mushroom {
+  background-color: #FFADAD;
+  height: 340px;
+  width: 1399px;
+  border: black 1px clear;
+  position: absolute; left: 20px; top: 100px;
+}
+
+
+.pink-white {
+  position: absolute; left: 100px; top: 30px;
+  width: 1100px;
+}
+
+.r-title {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 48px;
+  position:absolute; left: 620px; top: 470px;
+}
+
+.rr-title {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 24px;
+  position:absolute; left: 50px; top: 540px;
+  padding-left:20px;
+  padding-right:70px;
+}
+
+.therapist-aid-title {
+  font-size: 28px;
+  position:absolute; left: 100px; top: 700px;
+} 
+
+.aid-caption {
+  font-size: 20px;
+  position:absolute; left: 90px; top: 755px;
+  border: 1px black clear;
+  width: 180px;
+  border-top: black 1px solid;
+}
+
+.hotlinebling {
+  font-size: 28px;
+  position:absolute; left: 440px; top: 700px;
+}
+
+.hotline-caption {
+  font-size: 20px;
+  position:absolute; left: 400px; top: 755px;
+  border: 1px black clear;
+  width: 180px;
+  border-top: black 1px solid;
+}
+
+.sheets {
+  font-size: 28px;
+  position:absolute; left: 752px; top: 700px;
+}
+
+.sheets-caption {
+  font-size: 20px;
+  position:absolute; left: 690px; top: 755px;
+  border: 1px black clear;
+  width: 270px;
+  border-top: black 1px solid;
+}
+
+.speech {
+  font-size: 28px;
+  position:absolute; left: 1100px; top: 700px;
+}
+
+.speech-caption {
+  font-size: 20px;
+  position:absolute; left: 1060px; top: 755px;
+  border: 1px black clear;
+  width: 290px;
+  border-top: black 1px solid;
+}
+
+.porch {
+  font-size: 28px;
+  position:absolute; left: 100px; top: 900px;
+}
+
+.porch-caption {
+  font-size: 20px;
+  position:absolute; left: 90px; top: 955px;
+  border: 1px black clear;
+  width: 200px;
+  border-top: black 1px solid;
+}
+
+.art-therapy {
+  font-size: 28px;
+  position:absolute; left: 430px; top: 900px;
+}
+
+.art-caption {
+  font-size: 20px;
+  position:absolute; left: 390px; top: 955px;
+  border: 1px black clear;
+  width: 220px;
+  border-top: black 1px solid;
+}
+
+.helpful {
+  font-size: 28px;
+  position:absolute; left: 735px; top: 900px;
+}
+
+.helpful-caption {
+  font-size: 20px;
+  position:absolute; left: 705px; top: 955px;
+  border: 1px black clear;
+  width: 240px;
+  border-top: black 1px solid;
+}
+
+.free-online {
+  font-size: 28px;
+  position:absolute; left: 1090px; top: 900px;
+}
+
+.free-online-caption {
+  font-size: 20px;
+  position:absolute; left: 1090px; top: 955px;
+  border: 1px black clear;
+  width: 240px;
+  border-top: black 1px solid;
+}
+
+.parenting {
+  font-size: 28px;
+  position:absolute; left: 130px; top: 1100px;
+}
+
+.parenting-caption {
+  font-size: 20px;
+  position:absolute; left: 70px; top: 1155px;
+  border: 1px black clear;
+  width: 240px;
+  border-top: black 1px solid;
+}
+
+.anxiety {
+  font-size: 28px;
+  position:absolute; left: 405px; top: 1100px;
+}
+
+.anxiety-caption {
+  font-size: 20px;
+  position:absolute; left: 380px; top: 1155px;
+  border: 1px black clear;
+  width: 240px;
+  border-top: black 1px solid;
+}
+
+.occupational {
+  font-size: 28px;
+  position:absolute; left: 715px; top: 1100px;
+}
+
+.occupational-caption {
+  font-size: 20px;
+  position:absolute; left: 710px; top: 1155px;
+  border: 1px black clear;
+  width: 280px;
+  border-top: black 1px solid;
+}
+
+.support-group {
+  font-size: 28px;
+  position:absolute; left: 1111px; top: 1100px;
+}
+
+.support-caption {
+  font-size: 20px;
+  position:absolute; left: 1090px; top: 1155px;
+  border: 1px black clear;
+  width: 240px;
+  border-top: black 1px solid;
+}
+
+.addiction {
+  font-size: 28px;
+  position:absolute; left: 130px; top: 1300px;
+}
+
+.addiction-caption {
+  font-size: 20px;
+  position:absolute; left: 70px; top: 1355px;
+  border: 1px black clear;
+  width: 240px;
+  border-top: black 1px solid;
+}
+
+.self-care {
+  font-size: 28px;
+  position:absolute; left: 405px; top: 1300px;
+}
+
+.self-care-caption {
+  font-size: 20px;
+  position:absolute; left: 390px; top: 1355px;
+  border: 1px black clear;
+  width: 240px;
+  border-top: black 1px solid;
+}
+
+.covid {
+  font-size: 28px;
+  position:absolute; left: 800px; top: 1300px;
+}
+
+.covid-caption {
+  font-size: 20px;
+  position:absolute; left: 710px; top: 1355px;
+  border: 1px black clear;
+  width: 300px;
+  border-top: black 1px solid;
+}
+
+.polaris {
+  font-size: 28px;
+  position:absolute; left: 1165px; top: 1300px;
+}
+
+.polaris-caption {
+  font-size: 20px;
+  position:absolute; left: 1070px; top: 1355px;
+  border: 1px black clear;
+  width: 350px;
+  border-top: black 1px solid;
+}
+
+.mindshift {
+  font-size: 28px;
+  position:absolute; left: 100px; top: 1500px;
+}
+
+.mindshift-caption {
+  font-size: 20px;
+  position:absolute; left: 40px; top: 1555px;
+  border: 1px black clear;
+  width: 290px;
+  border-top: black 1px solid;
+}
+
+.cbt {
+  font-size: 28px;
+  position:absolute; left: 465px; top: 1500px;
+}
+
+.cbt-caption {
+  font-size: 20px;
+  position:absolute; left: 395px; top: 1555px;
+  border: 1px black clear;
+  width: 290px;
+  border-top: black 1px solid;
+}
+
+
+.line-1 {
+   position:absolute; left:250px; top:1800px;
+}
+
+.line-2 {
+     position:absolute; left:250px; top:1900px;
+}
+
+.ftnr {
+     position:absolute; left:420px; top:1850px;
+}
+
+.house {
+     position:absolute; left:280px; top:1850px;
+}
+
+.abt-us {
+     position:absolute; left:900px; top:1850px;
+}
+
+.res {
+     position:absolute; left:1100px; top:1850px;
+}
+.logooooo{
+  position:absolute; left:680px; top:1850px;
+}
+  
+.words-at-bottom {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lil-message-at-bottom {
+    position:absolute; left:540px; top:1950px;
+font-family: 'Montserrat', sans-serif;
+
+}
+
+.title-logo {
+  font-size: 25px;
+}
